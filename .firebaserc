@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "empleados-e963b": {
+      "hosting": {
+        "angular-app-01": [
+          "empleados-e963b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "empleados-e963b"
+  }
+}

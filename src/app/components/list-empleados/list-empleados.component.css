@@ -1,0 +1,14 @@
+.style-icon {
+  cursor: pointer;
+}
+.btn-eliminar, .btn-editar {
+  box-sizing: border-box;
+  border: none;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+}
+
+.no-data {
+  margin-top: 30px;
+}
